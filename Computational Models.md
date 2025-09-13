@@ -42,6 +42,12 @@ demo: https://olmocr.allenai.org/
 OCRFlux is a multimodal large language model based toolkit for converting PDFs and images into clean, readable, plain Markdown text. It aims to push the current state-of-the-art to a significantly higher level.
 https://huggingface.co/ChatDOC/OCRFlux-3B
 
+
+### PaddleOCR
+
+the latest generation of the PP-OCR series model for text and line detection. Support Simplified Chinese, Traditional Chinese, Pinyin annotation, English, and Japanese.
+https://huggingface.co/collections/PaddlePaddle/pp-ocrv5-684a5356aef5b4b1d7b85e4b
+
 ### UV Scripts
 
 Run state-of-the-art ML workflows with a single command. From OCR to classification, all scripts work instantly with `uv run`.
